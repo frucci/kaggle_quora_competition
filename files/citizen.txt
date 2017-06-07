@@ -1,0 +1,231 @@
+name
+Afghan
+Albanian
+Algerian
+American
+Andorran
+Angolan
+Argentine
+Armenian
+Aromanian
+Aruban
+Australian
+Austrian
+Azerbaijani
+Bahamian
+Bahraini
+Bangladeshi
+Barbadian
+Basotho
+Basque
+Belarusian
+Belgian
+Belizean
+Bermudian
+Boer
+Bosniak
+Brazilian
+Breton
+British
+Bruneian
+Bulgarian
+Macedonian Bulgarian
+Burkinabè
+Burundian
+Cambodian
+Cameroonian
+Canadian
+Catalan
+Cape Verdean
+Chadian
+Chilean
+Chinese
+Colombian
+Comorian
+Congoles
+Croatian
+Cuban
+Cypriot
+Turkish Cypriot
+Czech
+Dane
+Dominican
+Dutch
+East Timorese
+Ecuadorian
+Egyptian
+Emirati
+Englis
+Eritrean
+Estonian
+Ethiopian
+Falkland Islander
+Faroese
+Finn
+Swedish
+Fijian
+Filipino
+French
+Georgian
+German
+Baltic German
+Ghanaian
+Gibraltar
+Greek
+Macedonian
+Grenadian
+Guatemalan
+Guianese
+Guinea-Bissau
+Guyanes
+Haitian
+Honduran
+Hong Kong
+Hungarian
+Icelander
+Indian
+Indonesian
+Iranian
+Iraqi
+Irish
+Israeli
+Italian
+Ivoirian
+Jamaican
+Japanese
+Jordanian
+Kazakh
+Kenyan
+Korean
+Kosovar
+Kurd
+Kuwaiti
+Kyrgyz
+Lao
+Latvian
+Lebanese
+Liberian
+Libyan
+Liechtensteiner
+Lithuanian
+Luxembourger
+Macao
+Macedonian
+Malagasy
+Malaysian
+Malawian
+Maldivian
+Malian
+Maltese
+Manx
+Mauritian
+Mexican
+Moldovan
+Moroccan
+Mongolian
+Montenegrin
+Namibian
+Nepalese
+New Zealander
+Nicaraguan
+Nigerien
+Nigerian
+Norwegian
+Pakistani
+Palauan
+Palestinian
+Panamanian
+Papua New Guinean
+Paraguayan
+Peruvian
+Pole
+Portuguese
+Puerto Rican
+Quebecer
+Réunionnai
+Romanian
+Russian
+Baltic Russian
+Rwandan
+Salvadoran
+São Tomé and Príncipe
+Saudi
+Senegales
+Serb
+Sierra Leonean
+Singaporean
+Sindhian
+Slovak
+Slovene
+Somali
+Somalilander
+South African
+Spaniard
+Sri Lankan
+St Lucian
+Sudanese
+Surinames
+Swede
+Syriac
+Syrian
+Tajik
+Taiwanese
+Tanzanian
+Thai
+Tibetan
+Tobagonian
+Trinidadian
+Tunisian
+Turk
+Tuvaluan
+Ugandan
+Ukrainian
+Uruguayan
+Uzbek
+Vanuatuan
+Venezuelan
+Vietnamese
+Welsh
+Yemeni
+Zambian
+Zimbabwean
+Assyrian
+Basques
+Bengali
+Berber
+Boer
+Buryat
+Cajun
+Catalan
+Celt
+Chuvash
+Greek
+Hispanic
+Latino American
+Hutu
+Igbo
+Indigenou
+First Nations
+Huaorani people
+Inuit
+Canadian Inuit
+Greenlandic Inuit
+Métis people
+Native American
+Japanese
+Kare
+Kodava
+Kurd
+Macedonian
+Malay
+Mongolian
+Sami
+Sikh
+Silesian
+Sinhalese
+Syriac
+Kannadiga
+Tamil
+Tatar
+Tuts
+Zulu
