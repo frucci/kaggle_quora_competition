@@ -1,6 +1,6 @@
 # kaggle_quora_competition
 
-These files are the summary of our (frucci, aborgher) submission onthe Quora Kaggle competition (https://www.kaggle.com/c/quora-question-pairs).
+These files are the summary of our (frucci, aborgher) submission on the Quora Kaggle competition (https://www.kaggle.com/c/quora-question-pairs).
 
 The goal of the competition was to predict duplicate questions (question with the same meaning).
 
